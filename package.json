@@ -1,0 +1,51 @@
+{
+    "name": "greystillplays-vscode",
+    "displayName": "GreyStillPlays Theme",
+    "description": "A minimal, grey theme with subtle hints of lime and tickle me pink error messages. Crafted with C# development for Unity in mind.",
+    "version": "0.0.1",
+    "publisher": "jaredbest",
+    "icon": "images/logo.png",
+    "author": {
+        "name": "Jared Best",
+        "email": "me@jaredbest.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jaredbest/greystillplays-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/jaredbest/greystillplays-vscode/issues",
+        "email": "me@jaredbest.com"
+    },
+    "homepage": "https://github.com/jaredbest/greystillplays-vscode/blob/master/README.md",
+    "galleryBanner": {
+        "color": "#292929",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "gray",
+        "grey",
+        "GrayStillPlays",
+        "GreyStillPlays",
+        "Unity",
+        "C#"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GreyStillPlays",
+                "uiTheme": "vs-dark",
+                "path": "./themes/greystillplays-color-theme.json"
+            }
+        ]
+    }
+}
