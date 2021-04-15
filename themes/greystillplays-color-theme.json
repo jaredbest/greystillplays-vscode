@@ -18,7 +18,7 @@
 		"textPreformat.foreground": "#C0C0C0",
 		"textSeparator.foreground": "#C0C0C0",
 		// Button control
-		"button.background": "#D6D6D6",
+		"button.background": "#A3D96D",
 		"button.foreground": "#191919",
 		"button.hoverBackground": "#D6D6D699",
 		// Dropdown control
