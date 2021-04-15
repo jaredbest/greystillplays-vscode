@@ -2,7 +2,7 @@
     "name": "greystillplays-vscode",
     "displayName": "GreyStillPlays Theme",
     "description": "A minimal, grey theme with subtle hints of lime and tickle me pink error messages. Crafted with C# development for Unity in mind.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "jaredbest",
     "icon": "images/logo.png",
     "author": {
